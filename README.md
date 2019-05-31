@@ -85,7 +85,7 @@ From the master branch, run `open index.html` from your terminal, you should see
 
 ### Step 3: Merge!
 
-You're going to add both the doc-brown branch and the marty-mcfly branch to the master branch using merge. Merge the `doc-brown` branch first by running `git merge doc-brown -m "merge doc brown"` in the terminal.
+You're going to add both the doc-brown branch and the marty-mcfly branch to the master branch using merge. Merge the `doc-brown` branch first by running `git merge doc-brown` in the terminal.
 
 When you merge `doc-brown` into your `master` branch, your terminal should print a readout that looks something like this:
 
@@ -240,4 +240,4 @@ Congrats on fixing your first merge conflict!
 - [Stack Overflow - Best (and safest) way to merge a git branch into master](http://stackoverflow.com/questions/5601931/best-and-safest-way-to-merge-a-git-branch-into-master)
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-merge-conflicts' title='Git Merge Conflicts'>Git Merge Conflicts</a> on Learn.co and start learning to code for free.</p>
+<a href='https://learn.co/lessons/git-merge-conflicts' data-visibility='hidden'>View this lesson on Learn.co</a>
